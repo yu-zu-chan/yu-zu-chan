@@ -1,9 +1,23 @@
-## 팀 개발을 위한 Git GitHub 시작하기 개정판
+## yuzuchan/README.md
 
-![badge](https://img.shields.io/badge/)
+### Badge example
 
-### :octocat: 안녕하세요? 고양이입니다
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-- 지금 열심히 Git GitHub 책을 업덷이트하는 중입니다.
-- 마크다운 문법도 배워야겠죠?
-- 모두 함께 파이팅!
+### Emoji test
+
+🎱 8ball
+🦐 shrimp
+🎸 guitar
+
+### Unordered List test
+
+- 8ball
+- shrimp
+- guitar
+
+### Ordered List test
+
+1. 8ball
+2. shrimp
+3. guitar
